@@ -40,7 +40,11 @@ query getrestaurants {
       price
     }
   } 
-} query getrestaurant($iid: Int = 1) { 
+} 
+```
+
+```JSON
+query getrestaurant($iid: Int = 1) { 
   restaurant(id: $iid) { 
     name
     description
