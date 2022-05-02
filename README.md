@@ -47,3 +47,5 @@ query getrestaurants {
   }
 }
 ```
+
+<img src="img/graphql%20restaurant%20-%20jheser%20guzman.png" width="350" title="hover text">
